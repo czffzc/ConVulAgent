@@ -1,0 +1,15 @@
+# Core dependencies
+langgraph==0.2.45
+langchain==0.3.7
+langchain-community==0.3.5
+
+# LLM integration
+ollama==0.4.4
+
+# Utilities
+pyyaml==6.0.1
+pydantic==2.10.3
+typing-extensions==4.12.2
+
+# Optional: Progress bars and formatting
+rich==13.9.4
